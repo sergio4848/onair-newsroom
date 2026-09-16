@@ -1,0 +1,31 @@
+{
+  "name": "onair-newsroom",
+  "version": "4.1.0",
+  "private": true,
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "ws": "^8.18.0"
+  },
+  "description": "Automated X (Twitter) breaking-news desk that scores, deduplicates and auto-airs posts onto an OBS browser-source overlay.",
+  "license": "MIT",
+  "keywords": [
+    "obs",
+    "obs-studio",
+    "overlay",
+    "broadcast",
+    "lower-third",
+    "twitter",
+    "x-api",
+    "news",
+    "automation",
+    "livestream",
+    "websocket"
+  ]
+}

@@ -1,0 +1,13 @@
+# dependencies
+node_modules/
+
+# secrets & local config
+.env
+
+# runtime state (created on first run)
+data/*.json
+
+# os / editor noise
+.DS_Store
+Thumbs.db
+*.log
