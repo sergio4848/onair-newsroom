@@ -2,7 +2,7 @@
 
 **An automated breaking-news desk for live streams.** It watches the X (Twitter) accounts you trust, scores every incoming post, kills the duplicates and the spam, and pushes what matters straight onto your OBS scene as a broadcast-grade lower third — with no human clicking "approve" in the middle of a live show.
 
-Built for Turkish football coverage ([@saisportstr](https://x.com/saisportstr)), but nothing in it is sport-specific: it works for any live stream that needs a fast, credible news ticker.
+Built for Turkish football coverage ([@sergensahintr](https://x.com/sergensahintr)), but nothing in it is sport-specific: it works for any live stream that needs a fast, credible news ticker.
 
 <p align="center">
   <img src="docs/screenshots/overlay-flash.png" alt="Breaking news overlay on air" width="100%">
